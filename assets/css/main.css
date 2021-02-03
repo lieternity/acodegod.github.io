@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('https://api.vvhan.com/api/acgimg');
+    background-image: url('https://api.ixiaowai.cn/api/api.php');
 }
 #rin-bg:after {
     top: 0;
