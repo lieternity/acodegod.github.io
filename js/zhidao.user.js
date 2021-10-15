@@ -242,7 +242,7 @@ setting.div = $(
     '<div style="border: 2px dashed #377DFF; width: 330px; position: fixed; top: 0; left: 0; z-index: 99999; background-color: #EBF2FF; overflow-x: auto;">' +
     '<span style="font-size: medium;"></span>' +
     '<div style="font-size: medium;">正在搜索答案...</div>' +
-    '<div style="border-top: 1px solid #000;margin: 2px;overflow: hidden;font-weight:800;">MukeTool 智慧树网课助手 官网：http://muketool.com</div>' +
+    '<div style="border-top: 1px solid #000;margin: 2px;overflow: hidden;font-weight:800;">智慧树网课助手</div>' +
     '<div id="cx-notice" style="border-top: 1px solid #000;border-bottom: 1px solid #000;margin: 4px 0px;overflow: hidden;">' + setting.notice + '</div>' +
 
     '<button style="margin-right: 10px;">暂停答题</button>' +
